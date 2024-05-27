@@ -36,6 +36,6 @@ Este script es únicamente para fines educativos. Úsalo de manera responsable y
 
 ## Contacto 
 No dudes en contactar conmigo, siempre sera un placer.
-LinkedIn : www.linkedin.com/in/arceignacio
-Mail : nachitoarce11@gmail.com
+- LinkedIn : www.linkedin.com/in/arceignacio
+- Mail : nachitoarce11@gmail.com
 
